@@ -1,0 +1,3 @@
+# GDscriptjrpg
+This is my scripts for all the prototype of the game
+#As the GREAT Einstein ones said "Drink water, cuz... you have ANDHA PAISA my bOI...!!!!" IDK it doesn't make sense...
